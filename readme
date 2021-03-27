@@ -1,7 +1,8 @@
-Standalone snow OI code to assimilate GHCN snow depth obs and IMS snow cover.
+Standalone snow OI code to assimilate GTS snow depth obs for operational DA.
 
 driver is adapted from ufs_utils/global_cycle/cycle.f90 
+                       https://github.com/ClaraDraper-NOAA/snowDA_OI
 
-Tseganeh Gichamo and Clara Draper, Mar. 2021.
+Jiarui Dong, Mar. 2021.
 
 
